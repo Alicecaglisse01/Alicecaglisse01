@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hello World 👋
 
-<!--
-**Alicecaglisse01/Alicecaglisse01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋‍♀️ À propos de moi
+Je suis Alice Moisan, actuellement en troisième année à l'EPSI de Lille et en première année d'alternance chez **Picomto** situé à la Madeleine.
 
-Here are some ideas to get you started:
+## 🛠️ Mon Portforlio
+Clique ici pour accèder à mon Portfolio en ligne ! : 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Juste ici ](https://img.shields.io/badge/Visitez%20mon%20site-%20alice--moisan.fr-blue)](https://alice-moisan.fr)
+
+
+## 🎖️ Mes Projets Phares
+Section en travaux 
+
+## 💻 Technologies
+
+Section en travaux
+
+## 🎨 Mes Passions
+Je suis passionnée par de nombreux domaines. Voici quelques illustrations qui les représentent :
+ # 👨‍🍳  | 🎼 | 🎮 | 🐾 | 📷
+
+
+
+---
+
+N'hésitez pas à explorer mes projets ! 😄
+
+
+
+
